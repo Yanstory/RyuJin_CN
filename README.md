@@ -22,3 +22,8 @@ DX Library 中文WIKI： http://dxlib.irisine.com/doku.php?id=dxlibrary
 本教程Markdown文件允许转载使用。但教程版权属于Dixq作者所有，翻译版权属于Irisine作者所有。
 
 若需转载请征求作者同意。
+
+---
+
+由于原网站出现了不知名的Connection Refused所以Fork了一份
+在此大变感谢tidus5桑的搬运
